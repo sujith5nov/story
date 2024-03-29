@@ -1,1 +1,1 @@
-i am going to change chapter3.
+i am the author of this software and not the author of its documentation.
